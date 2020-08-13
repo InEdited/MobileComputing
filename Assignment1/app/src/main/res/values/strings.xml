@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="fromTextViewText">From</string>
+    <string name="toTextViewText">To</string>
+    <string name="valueTextViewText">Value</string>
+    <string name="resultsTextViewText">Result</string>
+    <string name="convertButtonText">CONVERT</string>
+    <string name="currencyPickText">Choose a currency</string>
+    <string name="editTextAmountHint">Enter A Value</string>
+    <string-array name="fromSpinnerCurrencies">
+        <item>EGP</item>
+        <item>USD</item>
+    </string-array>
+    <string-array name="toSpinnerCurrencies">
+        <item>USD</item>
+        <item>EGP</item>
+    </string-array>
+</resources>

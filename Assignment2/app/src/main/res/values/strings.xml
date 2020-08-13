@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator Rewsha Dark </string>
+    <string name="clearButton">C</string>
+    <string name="addButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="multiplyButton">*</string>
+    <string name="divideButton">/</string>
+    <string name="memoryButton">M</string>
+    <string name="memoryAdd">M+</string>
+    <string name="memoryRemove">M-</string>
+    <string name="_1Button">1</string>
+    <string name="_2Button">2</string>
+    <string name="_3Button">3</string>
+    <string name="_4Button">4</string>
+    <string name="_5Button">5</string>
+    <string name="_6Button">6</string>
+    <string name="_7Button">7</string>
+    <string name="_8Button">8</string>
+    <string name="_9Button">9</string>
+    <string name="_0Button">0</string>
+    <string name="_.Button">.</string>
+    <string name="equalButton">=</string>
+
+</resources>
