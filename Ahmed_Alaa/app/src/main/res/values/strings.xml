@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ahmed_Alaa</string>
+    <string name="quiz">Quiz</string>
+    <string name="q1">Q1: What is the name of Android 7.1 - API level 25?</string>
+    <string name="q11">A - KitKat</string>
+    <string name="q12">B - Lollipop</string>
+    <string name="q13">C - Nougat</string>
+    <string name="q14">D - Marshmallow</string>
+    <string name="submitbtn">Submit</string>
+    <string name="backbtn">Back</string>
+    <string name="qaplaceholder">Correct/Wrong Answer</string>
+    <string name="answer">Answer</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MatchingGame</string>
+    <string name="buttonStart">Start Game</string>
+    <string name="buttonScore">High Score</string>
+    <string name="buttonRestart">Restart Game</string>
+    <string name="saved_high_score_key">0</string>
+
+</resources>
